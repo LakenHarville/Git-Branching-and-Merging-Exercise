@@ -5,4 +5,4 @@
     4a Listen to music while waiting
         -Choose genre
     4b Play video games
-        -Doom and Call of Duty
+        - Doom and Call of Duty
