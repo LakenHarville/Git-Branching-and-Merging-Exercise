@@ -1,3 +1,8 @@
-Get hungry
-Find money
-Order pizza
+1) Get hungry
+2) Find money
+3) Order pizza
+4) Wait for pizza
+    4a Listen to music while waiting
+        -Choose genre
+    4b Play video games
+        -Doom and Call of Duty
